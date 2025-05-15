@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: version_2_adk_agent
+Version: 0.1.0
+Summary: A2A Agent With Google ADK
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: asyncclick>=8.1.8
+Requires-Dist: click>=8.1.8
+Requires-Dist: fastapi>=0.115.12
+Requires-Dist: google-adk>=0.2.0
+Requires-Dist: google-genai>=1.11.0
+Requires-Dist: python-dotenv>=1.1.0
